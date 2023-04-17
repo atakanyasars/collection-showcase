@@ -1,5 +1,5 @@
 # RINGS COLLECTION
-#### Video Demo: https://www.youtube.com/watch?v=ZdLFjJqRgf4&t=2s
+
 #### Description:
 Hello everyone! Welcome to the Rings Collection. These rings are selected by my pleasure and it was hella fun! First of all, There are multiple rings in the page which names are Brooch Shining Rhinestone, Emibele Spinner Rings, Madam&Matmazel Silver Ring, Ipek Silver Ring, Classic Couple Ring, and the final ring Darth Vader Ring. Beside the normal collection page, it has a soul in simplicity. There are complex theme and overdose photo using. The main page looks simple and fresh and welcome newcomers like you. The main goal of this website is clear I believe there are rings that my favorite of this year and I wanted to collect them into a website and give a little functionality with a help of javascript and css. I influenced by Amazon which is world's most known e-commerce website while positioning and implementing products land. It contains, the title and the price surely. Furthermore, there is a column that you can click and go directly which category exactly you want of course. After you click the categories, there are images appears related in page. Cool and fast feature of this website without adding another html file more practical and wise I believe.
 
