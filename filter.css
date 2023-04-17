@@ -1,0 +1,102 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color:#838779
+    
+  }
+  
+  .container {
+    display: flex;
+    padding: 50px;
+  }
+  
+  .leftMenu {
+    flex: 1;
+  }
+  
+  .search{
+    padding: 10px;
+    width: 200px;
+    border: 1px solid gray;
+  }
+  
+  h1{
+    font-size: 30px;
+    color: #0099ff;
+    font-weight: 300;
+    padding: 10px;
+    
+  }
+  
+  
+  .cats{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    color: #201c1c
+  }
+  
+  .cat{
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 300;
+    padding: 5px;
+    margin-bottom: -3px;
+  }
+  
+  .content {
+    flex: 4;
+  }
+  
+  .products{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .product{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+  }
+  
+  img{
+    width: 150px;
+    height: 250px;
+    object-fit: contain;
+  }
+  
+  .name{
+    font-weight: 300;
+  }
+
+  /* Add a black background color to the top navigation */
+.topnav {
+  background-color: #0099ff;
+  overflow: hidden;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.5);
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.5);
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: rgb(84, 100, 15);
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #ffb700;
+  color: white;
+}
